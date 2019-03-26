@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Google-Mobile-Ads-SDK (7.30.0)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Google-Mobile-Ads-SDK
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Google-Mobile-Ads-SDK
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: 31da76a27a06a5152ca54d26c3166350dba0361d
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Google-Mobile-Ads-SDK: 7404f68120ae8682afeb5af001fbf4aad731c78e
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: 566c21bdc643b60214c307c823dae2c845358a78
+
+COCOAPODS: 1.5.2
